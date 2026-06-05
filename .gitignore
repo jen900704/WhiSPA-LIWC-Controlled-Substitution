@@ -1,18 +1,15 @@
-# Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 .ipynb_checkpoints/
 
-# Environments
 .env
 .venv/
 venv/
 conda-env/
 *.egg-info/
 
-# Data / restricted materials
 data/
 raw_data/
 processed_data/
@@ -30,9 +27,7 @@ features/
 *.dic
 *.liwc
 
-# Outputs
 outputs/*
 !outputs/.gitkeep
 
-# OS
 .DS_Store
