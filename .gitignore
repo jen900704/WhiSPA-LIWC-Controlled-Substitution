@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+conda-env/
+*.egg-info/
+
+# Data / restricted materials
+data/
+raw_data/
+processed_data/
+features/
+*.wav
+*.mp3
+*.mp4
+*.flac
+*.csv
+*.tsv
+*.pkl
+*.npy
+*.npz
+*.pt
+*.dic
+*.liwc
+
+# Outputs
+outputs/*
+!outputs/.gitkeep
+
+# OS
+.DS_Store
